@@ -3,6 +3,9 @@
     "properties": {
         "shortcut": {
             "type": "string"
+        },
+        "was_hidden": {
+            "type": "boolean"
         }
     }
 }

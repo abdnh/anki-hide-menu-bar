@@ -1,1 +1,2 @@
 -   `shortcut`: Shortcut to toggle the main window's menu bar.
+-   `was_hidden`: This is used to persist menu bar visibility state across runs.
