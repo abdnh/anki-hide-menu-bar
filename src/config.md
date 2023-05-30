@@ -1,0 +1,1 @@
+-   `shortcut`: Shortcut to toggle the main window's menu bar.

@@ -1,0 +1,7 @@
+{
+    "name": "Hide Menu Bar",
+    "package": "hide_menu_bar",
+    "homepage": "https://github.com/abdnh/anki-addon-template",
+    "min_point_version": 22,
+    "ankiweb_id": "1532579816"
+}
